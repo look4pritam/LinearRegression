@@ -1,2 +1,2 @@
-# LinearRegression
-LinearRegression
+# Linear Regression
+Linear Regression
